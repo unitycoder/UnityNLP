@@ -1,0 +1,17 @@
+{
+    "name": "CherubNLP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5e6f78e14d3d6e3499f0a8664214d4db",
+        "GUID:b004977b07453e94bbbcf598722e65f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
